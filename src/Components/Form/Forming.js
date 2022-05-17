@@ -76,8 +76,23 @@ function Forming(props) {
           </button>
 
           <div className="contact mt-5">
-          <h1 className="contact__title text-capitalize mb-3">contact list</h1>
-        </div>
+            <h1 className="contact__title text-capitalize mb-3">contact list</h1>
+          </div>
+
+          {/* <div className="result__btns d-flex align-items-center justify-content-evenly mb-4 flex-wrap">
+          <button id="all" type="button" className="result__btn active">
+            All
+          </button>
+          <button id="fri" type="button" className="result__btn">
+            Friends
+          </button>
+          <button id="fam" type="button" className="result__btn">
+            Family
+          </button>
+          <button id="par" type="button" className="result__btn">
+            Partners
+          </button>
+        </div> */}
         </form>
         
       </div>

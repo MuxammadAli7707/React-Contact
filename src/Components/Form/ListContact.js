@@ -21,8 +21,8 @@ function ListContact(props) {
           <button id="par" type="button" className="result__btn">
             Partners
           </button>
-        </div>
-
+        </div> */}
+{/* 
         <div className="result__search">
           <input
             id="search"
